@@ -1,0 +1,21 @@
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.exe
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.deps.json
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.runtimeconfig.json
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.dll
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.pdb
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.dll
+C:\Users\Michael\source\repos\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.pdb
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.exe
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.deps.json
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.runtimeconfig.json
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.runtimeconfig.dev.json
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.dll
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\bin\Debug\netcoreapp3.0\Day 1 Deliverable.pdb
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.csprojAssemblyReference.cache
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.AssemblyInfoInputs.cache
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.AssemblyInfo.cs
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.dll
+C:\Users\Michael\Source\Repos\Grand Circus\Day 1 Deliverable\Day 1 Deliverable\obj\Debug\netcoreapp3.0\Day 1 Deliverable.pdb
